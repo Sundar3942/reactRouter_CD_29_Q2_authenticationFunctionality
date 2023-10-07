@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.nav-menu {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+.link {
+  margin-left: 10px;
+  margin-right: 10px;
+}
